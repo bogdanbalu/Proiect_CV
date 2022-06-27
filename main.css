@@ -1,0 +1,59 @@
+.text-color-blue {
+    color: #005889;
+}
+
+.top-boder {
+    width: auto;
+    height: 7px;
+    background-color: #005889;
+}
+
+.align-content {
+    margin-left: 48px;
+    margin-top: 36px;
+}
+
+.align-top-paragraph {
+    margin-top: 0px;
+    margin-left: 62px;
+}
+
+.list-without-dot {
+    list-style-type: none;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.column {
+    float: left;
+    width: 33.33%;
+  }
+
+.dot-dimension {
+    font-size: 20px;
+    margin-left: 13px;
+}
+
+.margin-education-list {
+    margin-top: 10px;
+}
+
+.flex-container {
+    display: flex;
+   
+}
+
+.row {
+    width: 100%;
+  }
+  
+.my-button {
+    color: white;
+    background-color: blueviolet;
+    border-color: brown;
+    border-style: 5px solid;
+}
